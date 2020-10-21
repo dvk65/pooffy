@@ -1,0 +1,7 @@
+Make a form where people who have pets to give for adoption can fill in the details.
+Display these details on the page using a similar thing that displays username on login.
+
+Try and create sessions for when a user logs in till when they logout.
+
+Create a private chat window for people who are adopting to connect with people who are giving pets for adoption. 
+Will be visible only after user has logged in and session is active.
