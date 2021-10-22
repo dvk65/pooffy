@@ -5,3 +5,5 @@ Try and create sessions for when a user logs in till when they logout.
 
 Create a private chat window for people who are adopting to connect with people who are giving pets for adoption. 
 Will be visible only after user has logged in and session is active.
+
+Setup a more streamlined authentication system, use firebase maybe?
