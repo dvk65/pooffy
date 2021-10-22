@@ -1,1 +1,9 @@
-"It is a django pet adoption webiste. Use the command python manage.py runserver to run project" 
+"It is a django pet adoption website." 
+
+To setup  the database, run 
+python3 manage.py makemigrations
+python3 manage.py migrate
+
+To run the project,
+python3 manage.py runserver
+
